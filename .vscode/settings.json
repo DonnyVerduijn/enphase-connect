@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": ["./dbus-enphase-envoy/ext/velib_python"],
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
